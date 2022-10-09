@@ -6,4 +6,10 @@ user - legal owner of Kampela device
 
 identity - combination of address and proof of ownership of corresponding secret key
 
+сhain verifiers - 
 
+сhain specs - 
+
+сhain isolation - 
+
+friendly devices - 
